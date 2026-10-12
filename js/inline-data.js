@@ -21,7 +21,7 @@ const INLINE_CONFIG = {
   "settings": {
     "updateInterval": 720,
     "maxArticlesPerSite": 10,
-    "lastUpdated": "2026-10-11T20:26:34.190Z",
+    "lastUpdated": "2026-10-12T23:06:28.343Z",
     "localFreeNodesCount": 5
   }
 };
@@ -29,177 +29,177 @@ const INLINE_SUBSCRIPTIONS = {
   "clash_meta_github_io": {
     "url": "https://clash-meta.github.io/",
     "siteName": "clash-meta.github.io",
-    "scrapedAt": "2026-10-11T20:26:34.641Z",
+    "scrapedAt": "2026-10-12T23:06:28.453Z",
     "subscriptionCount": 10,
     "subscriptions": [
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/4-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/4-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "V2ray",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261011.txt",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261012.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "V2ray",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261011.txt",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261012.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "V2ray",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261011.txt",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261012.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "V2ray",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261011.txt",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261012.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Sing-Box",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/20261011.json",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/20261012.json",
         "description": "Sing-Box订阅链接",
-        "articleTitle": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       }
     ]
   },
   "clashnode_github_io": {
     "url": "https://clashnode.github.io/",
     "siteName": "clashnode.github.io",
-    "scrapedAt": "2026-10-11T20:26:34.640Z",
+    "scrapedAt": "2026-10-12T23:06:28.452Z",
     "subscriptionCount": 10,
     "subscriptions": [
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Clash",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/4-20261011.yaml",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/4-20261012.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "V2ray",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261011.txt",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261012.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "V2ray",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261011.txt",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261012.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "V2ray",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261011.txt",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261012.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "V2ray",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261011.txt",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261012.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       },
       {
         "type": "Sing-Box",
-        "url": "https://node.freeclashnode.com/uploads/2026/10/20261011.json",
+        "url": "https://node.freeclashnode.com/uploads/2026/10/20261012.json",
         "description": "Sing-Box订阅链接",
-        "articleTitle": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11"
+        "articleTitle": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "articleUrl": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12"
       }
     ]
   },
   "www_airportnode_com": {
     "url": "https://www.airportnode.com/",
     "siteName": "www.airportnode.com",
-    "scrapedAt": "2026-10-11T20:26:34.642Z",
+    "scrapedAt": "2026-10-12T23:06:28.454Z",
     "subscriptionCount": 2,
     "subscriptions": [
       {
         "type": "Clash",
-        "url": "https://www.airportnode.com/stair/20261011-clash.yaml",
+        "url": "https://www.airportnode.com/stair/20261012-clash.yaml",
         "description": "Clash订阅链接",
-        "articleTitle": "10月11日更新，2026年最新免费节点",
+        "articleTitle": "10月12日更新，2026年最新免费节点",
         "articleUrl": "https://www.airportnode.com/w/178.html"
       },
       {
         "type": "V2ray",
-        "url": "https://www.airportnode.com/stair/20261011-v2ray.txt",
+        "url": "https://www.airportnode.com/stair/20261012-v2ray.txt",
         "description": "V2ray订阅链接",
-        "articleTitle": "10月11日更新，2026年最新免费节点",
+        "articleTitle": "10月12日更新，2026年最新免费节点",
         "articleUrl": "https://www.airportnode.com/w/178.html"
       }
     ]
@@ -207,7 +207,7 @@ const INLINE_SUBSCRIPTIONS = {
   "custom": {
     "url": "custom",
     "siteName": "自定义订阅",
-    "scrapedAt": "2026-10-11T20:26:34.742Z",
+    "scrapedAt": "2026-10-12T23:06:28.455Z",
     "subscriptionCount": 5,
     "subscriptions": [
       {
@@ -252,62 +252,62 @@ const INLINE_SITES = {
   "clash_meta_github_io": {
     "url": "https://clash-meta.github.io/",
     "siteName": "clash-meta.github.io",
-    "scrapedAt": "2026-10-11T20:26:34.641Z",
+    "scrapedAt": "2026-10-12T23:06:28.453Z",
     "articles": [
       {
-        "url": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-11",
-        "title": "10月11日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "scrapedAt": "2026-10-11T20:26:34.641Z",
+        "url": "https://clash-meta.github.io/newly-discovered-nodes/index.html?date=2026-10-12",
+        "title": "10月12日更新21.5M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "scrapedAt": "2026-10-12T23:06:28.453Z",
         "subscriptionCount": 10,
         "subscriptions": [
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/4-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/4-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261011.txt",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261012.txt",
             "description": "V2ray订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261011.txt",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261012.txt",
             "description": "V2ray订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261011.txt",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261012.txt",
             "description": "V2ray订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261011.txt",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261012.txt",
             "description": "V2ray订阅链接"
           },
           {
             "type": "Sing-Box",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/20261011.json",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/20261012.json",
             "description": "Sing-Box订阅链接"
           }
         ]
@@ -318,62 +318,62 @@ const INLINE_SITES = {
   "clashnode_github_io": {
     "url": "https://clashnode.github.io/",
     "siteName": "clashnode.github.io",
-    "scrapedAt": "2026-10-11T20:26:34.640Z",
+    "scrapedAt": "2026-10-12T23:06:28.452Z",
     "articles": [
       {
-        "url": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-11",
-        "title": "10月11日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
-        "scrapedAt": "2026-10-11T20:26:34.640Z",
+        "url": "https://clashnode.github.io/newly-discovered-nodes/index.html?date=2026-10-12",
+        "title": "10月12日更新20.2M/S，2026年最新高速Clash/V2ray订阅链接免费节点地址分享",
+        "scrapedAt": "2026-10-12T23:06:28.452Z",
         "subscriptionCount": 10,
         "subscriptions": [
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "Clash",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/4-20261011.yaml",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/4-20261012.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261011.txt",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/0-20261012.txt",
             "description": "V2ray订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261011.txt",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/1-20261012.txt",
             "description": "V2ray订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261011.txt",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/2-20261012.txt",
             "description": "V2ray订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261011.txt",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/3-20261012.txt",
             "description": "V2ray订阅链接"
           },
           {
             "type": "Sing-Box",
-            "url": "https://node.freeclashnode.com/uploads/2026/10/20261011.json",
+            "url": "https://node.freeclashnode.com/uploads/2026/10/20261012.json",
             "description": "Sing-Box订阅链接"
           }
         ]
@@ -384,22 +384,22 @@ const INLINE_SITES = {
   "www_airportnode_com": {
     "url": "https://www.airportnode.com/",
     "siteName": "www.airportnode.com",
-    "scrapedAt": "2026-10-11T20:26:34.642Z",
+    "scrapedAt": "2026-10-12T23:06:28.454Z",
     "articles": [
       {
         "url": "https://www.airportnode.com/w/178.html",
-        "title": "10月11日更新，2026年最新免费节点",
-        "scrapedAt": "2026-10-11T20:26:34.642Z",
+        "title": "10月12日更新，2026年最新免费节点",
+        "scrapedAt": "2026-10-12T23:06:28.454Z",
         "subscriptionCount": 2,
         "subscriptions": [
           {
             "type": "Clash",
-            "url": "https://www.airportnode.com/stair/20261011-clash.yaml",
+            "url": "https://www.airportnode.com/stair/20261012-clash.yaml",
             "description": "Clash订阅链接"
           },
           {
             "type": "V2ray",
-            "url": "https://www.airportnode.com/stair/20261011-v2ray.txt",
+            "url": "https://www.airportnode.com/stair/20261012-v2ray.txt",
             "description": "V2ray订阅链接"
           }
         ]
